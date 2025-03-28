@@ -78,3 +78,17 @@ Analytics Dashboard for Farmers
 This project is open-source and available under the MIT License.
 
 🚀 Happy Farming & Trading! 🌾🎉
+
+/direct-market-access/
+│── index.html          (Home Page)
+│── login.html          (Login Page)
+│── signup.html         (Signup Page)
+│── marketplace.html    (Marketplace Page)
+│── buying.html         (Buying Interface)
+│── selling.html        (Selling Interface)
+│── bulk-order.html     (Bulk Order Interface)
+│── contract.html       (Contract Flow)
+│── js/script.js        (JavaScript for Page Redirection)
+│── css/styles.css      (Custom Styles)
+│── README.md           (Project Documentation)
+
