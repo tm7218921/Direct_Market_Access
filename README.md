@@ -1,4 +1,6 @@
 🌾 Direct Market Access for Farmers
+
+
 📌 Project Overview
 Direct Market Access for Farmers is a web-based platform designed to connect farmers and buyers directly, eliminating middlemen and ensuring fair pricing for agricultural products. The platform includes functionalities for buying, selling, contracts, bulk orders, and a user-friendly marketplace.
 
